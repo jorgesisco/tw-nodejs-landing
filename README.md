@@ -2,6 +2,8 @@
 
 Welcome to the repository for a simple landing page built using Node.js and TailwindCSS.
 
+Deployed website can be found [here](https://main--chipper-belekoy-719959.netlify.app/).
+
 ## Overview
 
 This landing page is a sleek, responsive design built with the power of TailwindCSS, which offers utility-first CSS classes, making the design process smooth and intuitive. The project uses Node.js for tooling and building the final CSS output.
